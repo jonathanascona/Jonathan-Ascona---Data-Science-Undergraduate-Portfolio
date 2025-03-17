@@ -27,13 +27,19 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-__Brigham Young University - Idaho, Rexburg,ID__
-*Associate's Degree - Associate of Applied Science*
+__Bachelor's Degree - Data Science (Anticipated)__
+
+*Brigham Young University - Idaho, Rexburg,ID*
+`January 2022 - Present`
+
+
+
+
+__Associate's Degree - Associate of Applied Science__
+
+*Brigham Young University - Idaho, Rexburg,ID*
 `January 2022 - July 2024`
 
-__Brigham Young University - Idaho, Rexburg,ID__
-*Bachelor's Degree - Data Science (Anticipated)*
-`January 2022 - Present`
 
 ## Awards
 
@@ -44,11 +50,11 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## Courses
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### DS150
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
