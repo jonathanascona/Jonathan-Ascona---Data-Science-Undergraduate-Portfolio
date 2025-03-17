@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Resume
 ---
-# Isaac Newton
+# Jonathan Ascona
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="jonathanascona01@gmail.com">isaac@applesdofall.org</a>
-| <a href="https://www.linkedin.com/in/jonathan-ascona/">My LinkedIn</a>
+<a href="jonathanascona01@gmail.com">jonathanascona01@gmail.com</a>
+| <a href="https://www.linkedin.com/in/jonathan-ascona/">My LinkedIn Profile</a>
+    <a href="https://app.joinhandshake.com/profiles/uq5mvg">Handshake</a>
 </div>
 
 
@@ -43,18 +44,16 @@ __Associate's Degree - Associate of Applied Science__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`October 2024`
+i-Hack Hackathon 2024, *1st Place in Streamlit UI Category*, BYU-Idaho
+'https://github.com/jonathanascona/iHack-Hackathon-2024-Project'
 
 
 
 ## Courses
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### DS150
+### DS150 - Data Intuition & Insight
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -64,23 +63,24 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+### DS250 - Data Science Programming
+
+### DS350 - Data Wrangling/Visualization
+
+### DS460 - Big Data Programming
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
+### CSE110 - Intro to Programming
 
-## Occupation
+### CSE111 - Programming with Functions
 
-`1600`
-__Royal Mint__, London
+### CSE450 - Machine Learning
 
-- Warden
-- Minted coins
+### ITM111 - Introduction to Databases
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### ITM220 - SQL
 
 
 <!-- ### Footer
